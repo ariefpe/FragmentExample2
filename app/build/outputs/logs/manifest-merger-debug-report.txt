@@ -1,0 +1,160 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/aphasan/Medinacom/practices/android/FragmentExample2/app/src/main/AndroidManifest.xml:18:1-37:12
+INJECTED from /home/aphasan/Medinacom/practices/android/FragmentExample2/app/src/main/AndroidManifest.xml:18:1-37:12
+INJECTED from /home/aphasan/Medinacom/practices/android/FragmentExample2/app/src/main/AndroidManifest.xml:18:1-37:12
+INJECTED from /home/aphasan/Medinacom/practices/android/FragmentExample2/app/src/main/AndroidManifest.xml:18:1-37:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/aphasan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/83b3aa59600f99a5feba9c49a865693e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:28.0.0] /home/aphasan/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/7c61730eec1b06ccf8d8521b11f11c19/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/aphasan/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/493325d369d02a30b02730e13f57c8d9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/aphasan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/276cda1c96c5c38d3db9dec48dccf71f/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/aphasan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/1ca50356606985ccd515dd8528e8bde2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/aphasan/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/dacb79466baaf2380484f193c9027b4a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/aphasan/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/6eff53452c96567acda368b81b04a18d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/aphasan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/41319c1730f8049d0b195d0c18599254/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/aphasan/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/09d39b11e46ce46dd4d281c4aea763ed/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/aphasan/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/2b4798094464c6b7be7d5a1a472154ab/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/aphasan/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/978c3be6a01f53f0bfba00f8526ddb91/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/aphasan/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/c6d61085eec363b34b9660645075ddfa/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/aphasan/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/2b07784daadff6fee83b3ab5b467d394/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/aphasan/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/a1535750a3712d4c6d0dd6353ff8f42c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/aphasan/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/1c41c5ada83ec0195749d24428f0bdcd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/aphasan/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/4abf27f4a9b87a72387b47e0378c92b1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/aphasan/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/c8302192976619ab5e210b76fe66ab71/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/aphasan/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6e93bacf6261cf01af658c34fe57e4c9/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/aphasan/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/4678e1f0fc5f1d87cfee151b55c08681/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/aphasan/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/8f2f6d6eabfe5ee7cc9accac53e6f9fd/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/aphasan/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/5a7f37a39fc9c52379382a3e3bfe3ab0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/aphasan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/31b02495b590094aa5c7adc3d627f8ce/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/aphasan/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/70caa19c9e68b98d5c112c2af3f8b8d8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/aphasan/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/016bcb7ad71128d32681f499fde83e35/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/aphasan/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/b5ec97e5d026557765e6a9519d6fe0f7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/aphasan/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/f18cc1a8b0f32c3e1bb0a9138b4ff7a6/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/aphasan/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/6925b370254889ab4cb39b7965918807/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/aphasan/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/8082fa4fa9ba417ad54ced28ee92e522/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/aphasan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/97394aab6fe10406e9038abab414d0db/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/aphasan/Medinacom/practices/android/FragmentExample2/app/src/main/AndroidManifest.xml:18:1-37:12
+INJECTED from /home/aphasan/Medinacom/practices/android/FragmentExample2/app/src/main/AndroidManifest.xml:18:1-37:12
+INJECTED from /home/aphasan/Medinacom/practices/android/FragmentExample2/app/src/main/AndroidManifest.xml:18:1-37:12
+	package
+		ADDED from /home/aphasan/Medinacom/practices/android/FragmentExample2/app/src/main/AndroidManifest.xml:19:5-51
+		INJECTED from /home/aphasan/Medinacom/practices/android/FragmentExample2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/aphasan/Medinacom/practices/android/FragmentExample2/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/aphasan/Medinacom/practices/android/FragmentExample2/app/src/main/AndroidManifest.xml
+		ADDED from /home/aphasan/Medinacom/practices/android/FragmentExample2/app/src/main/AndroidManifest.xml:18:1-37:12
+		INJECTED from /home/aphasan/Medinacom/practices/android/FragmentExample2/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/aphasan/Medinacom/practices/android/FragmentExample2/app/src/main/AndroidManifest.xml
+		ADDED from /home/aphasan/Medinacom/practices/android/FragmentExample2/app/src/main/AndroidManifest.xml:18:1-37:12
+		INJECTED from /home/aphasan/Medinacom/practices/android/FragmentExample2/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/aphasan/Medinacom/practices/android/FragmentExample2/app/src/main/AndroidManifest.xml:18:11-69
+application
+ADDED from /home/aphasan/Medinacom/practices/android/FragmentExample2/app/src/main/AndroidManifest.xml:21:5-35:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/aphasan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/276cda1c96c5c38d3db9dec48dccf71f/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/aphasan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/276cda1c96c5c38d3db9dec48dccf71f/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /home/aphasan/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6e93bacf6261cf01af658c34fe57e4c9/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/aphasan/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6e93bacf6261cf01af658c34fe57e4c9/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/aphasan/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/4678e1f0fc5f1d87cfee151b55c08681/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/aphasan/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/4678e1f0fc5f1d87cfee151b55c08681/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/aphasan/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6e93bacf6261cf01af658c34fe57e4c9/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/aphasan/Medinacom/practices/android/FragmentExample2/app/src/main/AndroidManifest.xml:26:9-35
+	android:label
+		ADDED from /home/aphasan/Medinacom/practices/android/FragmentExample2/app/src/main/AndroidManifest.xml:24:9-41
+	android:roundIcon
+		ADDED from /home/aphasan/Medinacom/practices/android/FragmentExample2/app/src/main/AndroidManifest.xml:25:9-54
+	android:icon
+		ADDED from /home/aphasan/Medinacom/practices/android/FragmentExample2/app/src/main/AndroidManifest.xml:23:9-43
+	android:allowBackup
+		ADDED from /home/aphasan/Medinacom/practices/android/FragmentExample2/app/src/main/AndroidManifest.xml:22:9-35
+	android:theme
+		ADDED from /home/aphasan/Medinacom/practices/android/FragmentExample2/app/src/main/AndroidManifest.xml:27:9-40
+activity#com.example.android.fragmentexample2.MainActivity
+ADDED from /home/aphasan/Medinacom/practices/android/FragmentExample2/app/src/main/AndroidManifest.xml:28:9-34:20
+	android:name
+		ADDED from /home/aphasan/Medinacom/practices/android/FragmentExample2/app/src/main/AndroidManifest.xml:28:19-83
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/aphasan/Medinacom/practices/android/FragmentExample2/app/src/main/AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from /home/aphasan/Medinacom/practices/android/FragmentExample2/app/src/main/AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from /home/aphasan/Medinacom/practices/android/FragmentExample2/app/src/main/AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/aphasan/Medinacom/practices/android/FragmentExample2/app/src/main/AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from /home/aphasan/Medinacom/practices/android/FragmentExample2/app/src/main/AndroidManifest.xml:32:27-74
+uses-sdk
+INJECTED from /home/aphasan/Medinacom/practices/android/FragmentExample2/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/aphasan/Medinacom/practices/android/FragmentExample2/app/src/main/AndroidManifest.xml
+INJECTED from /home/aphasan/Medinacom/practices/android/FragmentExample2/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/aphasan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/83b3aa59600f99a5feba9c49a865693e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/aphasan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/83b3aa59600f99a5feba9c49a865693e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /home/aphasan/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/7c61730eec1b06ccf8d8521b11f11c19/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /home/aphasan/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/7c61730eec1b06ccf8d8521b11f11c19/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/aphasan/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/493325d369d02a30b02730e13f57c8d9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/aphasan/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/493325d369d02a30b02730e13f57c8d9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/aphasan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/276cda1c96c5c38d3db9dec48dccf71f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/aphasan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/276cda1c96c5c38d3db9dec48dccf71f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/aphasan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/1ca50356606985ccd515dd8528e8bde2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/aphasan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/1ca50356606985ccd515dd8528e8bde2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/aphasan/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/dacb79466baaf2380484f193c9027b4a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/aphasan/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/dacb79466baaf2380484f193c9027b4a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/aphasan/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/6eff53452c96567acda368b81b04a18d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/aphasan/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/6eff53452c96567acda368b81b04a18d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/aphasan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/41319c1730f8049d0b195d0c18599254/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/aphasan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/41319c1730f8049d0b195d0c18599254/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/aphasan/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/09d39b11e46ce46dd4d281c4aea763ed/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/aphasan/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/09d39b11e46ce46dd4d281c4aea763ed/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/aphasan/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/2b4798094464c6b7be7d5a1a472154ab/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/aphasan/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/2b4798094464c6b7be7d5a1a472154ab/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/aphasan/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/978c3be6a01f53f0bfba00f8526ddb91/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/aphasan/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/978c3be6a01f53f0bfba00f8526ddb91/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/aphasan/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/c6d61085eec363b34b9660645075ddfa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/aphasan/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/c6d61085eec363b34b9660645075ddfa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/aphasan/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/2b07784daadff6fee83b3ab5b467d394/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/aphasan/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/2b07784daadff6fee83b3ab5b467d394/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/aphasan/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/a1535750a3712d4c6d0dd6353ff8f42c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/aphasan/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/a1535750a3712d4c6d0dd6353ff8f42c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/aphasan/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/1c41c5ada83ec0195749d24428f0bdcd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/aphasan/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/1c41c5ada83ec0195749d24428f0bdcd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/aphasan/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/4abf27f4a9b87a72387b47e0378c92b1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/aphasan/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/4abf27f4a9b87a72387b47e0378c92b1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/aphasan/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/c8302192976619ab5e210b76fe66ab71/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/aphasan/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/c8302192976619ab5e210b76fe66ab71/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/aphasan/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6e93bacf6261cf01af658c34fe57e4c9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/aphasan/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6e93bacf6261cf01af658c34fe57e4c9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/aphasan/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/4678e1f0fc5f1d87cfee151b55c08681/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/aphasan/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/4678e1f0fc5f1d87cfee151b55c08681/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/aphasan/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/8f2f6d6eabfe5ee7cc9accac53e6f9fd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/aphasan/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/8f2f6d6eabfe5ee7cc9accac53e6f9fd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/aphasan/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/5a7f37a39fc9c52379382a3e3bfe3ab0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/aphasan/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/5a7f37a39fc9c52379382a3e3bfe3ab0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/aphasan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/31b02495b590094aa5c7adc3d627f8ce/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/aphasan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/31b02495b590094aa5c7adc3d627f8ce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/aphasan/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/70caa19c9e68b98d5c112c2af3f8b8d8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/aphasan/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/70caa19c9e68b98d5c112c2af3f8b8d8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/aphasan/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/016bcb7ad71128d32681f499fde83e35/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/aphasan/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/016bcb7ad71128d32681f499fde83e35/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/aphasan/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/b5ec97e5d026557765e6a9519d6fe0f7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/aphasan/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/b5ec97e5d026557765e6a9519d6fe0f7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/aphasan/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/f18cc1a8b0f32c3e1bb0a9138b4ff7a6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/aphasan/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/f18cc1a8b0f32c3e1bb0a9138b4ff7a6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/aphasan/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/6925b370254889ab4cb39b7965918807/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/aphasan/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/6925b370254889ab4cb39b7965918807/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/aphasan/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/8082fa4fa9ba417ad54ced28ee92e522/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/aphasan/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/8082fa4fa9ba417ad54ced28ee92e522/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/aphasan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/97394aab6fe10406e9038abab414d0db/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/aphasan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/97394aab6fe10406e9038abab414d0db/AndroidManifest.xml:20:5-44
+INJECTED from /home/aphasan/Medinacom/practices/android/FragmentExample2/app/src/main/AndroidManifest.xml
+INJECTED from /home/aphasan/Medinacom/practices/android/FragmentExample2/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/aphasan/Medinacom/practices/android/FragmentExample2/app/src/main/AndroidManifest.xml
+		ADDED from /home/aphasan/Medinacom/practices/android/FragmentExample2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/aphasan/Medinacom/practices/android/FragmentExample2/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/aphasan/Medinacom/practices/android/FragmentExample2/app/src/main/AndroidManifest.xml
+		ADDED from /home/aphasan/Medinacom/practices/android/FragmentExample2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/aphasan/Medinacom/practices/android/FragmentExample2/app/src/main/AndroidManifest.xml
